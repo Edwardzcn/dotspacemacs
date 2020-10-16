@@ -1,6 +1,3 @@
-[submodule "private/private/coq"]
-	path = private/private/coq
-	url = git@github.com:mbrcknl/spacemacs-coq
 [submodule "private/coq"]
 	path = private/coq
 	url = git@github.com:mbrcknl/spacemacs-coq
